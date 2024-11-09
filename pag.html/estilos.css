@@ -1,0 +1,38 @@
+body {
+    background-color: darksalmon;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    .cuerpo{
+        background-color:#e0a38e;
+        border: 8px solid white;
+        width: 700px;
+        margin: 10px 300px;
+    }
+
+.columnas{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin: 10px 10px;
+
+}
+
+h1{
+    text-align: center;
+    
+}
+
+h3{
+    text-align:left;
+    margin: 8px 90px 0px;
+}
+
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+
+.bit{
+    margin: 10px 30px;
+}
+
